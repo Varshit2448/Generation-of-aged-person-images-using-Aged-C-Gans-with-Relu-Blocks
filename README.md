@@ -33,7 +33,10 @@ Each file should follow:
 
 Example input image:
 
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/14dea59c-a9ea-47b0-8db2-500200ca87a8" />
+
+
 
 
 ✅ 3. Training
