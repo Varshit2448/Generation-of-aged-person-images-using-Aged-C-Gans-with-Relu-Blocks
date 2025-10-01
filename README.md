@@ -1,4 +1,4 @@
-🧠 Age Progression GAN – UTKFace Training & Inference
+🧠 Generation-of-aged-person-images-using-Aged-C-Gans-with-Relu-Blocks
 
 This project trains a lightweight GAN to generate aged face images using the UTKFace dataset. It includes:
 
