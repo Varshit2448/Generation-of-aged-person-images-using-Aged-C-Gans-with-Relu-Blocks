@@ -138,7 +138,7 @@ Increase epochs or image size for better quality
 
 Use infer_image() after training completes
 
-✅ 9. Network Archetecture
+✅ 9. Flow Chart
 
 <img width="1410" height="758" alt="Screenshot 2025-10-01 092756" src="https://github.com/user-attachments/assets/00cf498b-b10e-4966-80d3-c94169b25e9a" />
 
